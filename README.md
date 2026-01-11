@@ -9,7 +9,7 @@
 
 - Azure Fundamentals (AZ-900)
 - AWS Certfied Cloud Practicioner (CLF-01)
-- Security + (in progress)
+- Security+
 
 ## 🛠️ Tech I Use
 
